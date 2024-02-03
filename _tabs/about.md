@@ -40,12 +40,12 @@ order: 4
 - 📄 <a href="/assets/img/Curriculum.pdf" download>Ver mi currículum</a>
 
 ### Proyectos Destacados
-- 🌐 [Proyecto 1](EnlaceProyecto1)
-- 🌐 [Proyecto 2](EnlaceProyecto2)
+- 🌐 Proyecto 1 (EnlaceProyecto1)
+- 🌐 Proyecto 2 (EnlaceProyecto2)
 
 ### Contacto
 - 🔗 <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a>
-- ✉️ [Correo Electrónico](galileoquevedo@gmail.com)
+- ✉️ Correo Electrónico: (galileoquevedo@gmail.com)
 - 
 
 ¡Conéctate conmigo para discutir sobre tecnología, ciberseguridad y más! 🤝
