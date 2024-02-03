@@ -45,7 +45,6 @@ order: 4
 
 ### Contacto
 - 🔗 <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a>
-- ✉️ Correo Electrónico: (galileoquevedo@gmail.com)
-- 
-
+- ✉️ Correo Electrónico: galileoquevedo@gmail.com
+  
 ¡Conéctate conmigo para discutir sobre tecnología, ciberseguridad y más! 🤝
