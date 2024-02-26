@@ -8,7 +8,7 @@ order: 4
 
 # Proximamente
 ![eJPTv2](/assets/img/eJPTv2.png) 
-
+<script src="https://www.hackthebox.com/badge/1598457"> </script>
 ### Educación
 - 🎓 Ingeniería de Sistemas (último año)
 - 📘 Estudiante de Ciberseguridad
@@ -25,13 +25,14 @@ order: 4
 
 #### Cyber seguridad Skills
 - 🔒 Análisis de Vulnerabilidades
-- 🔒 Ciberseguridad: Análisis de vulnerabilidades, Pentesting, Pivoting, Port forwarding
+- 🔒 Ciberseguridad: Pentesting, Pivoting, Port forwarding
 - 🌐 Pentesting: Nmap, Wireshark, Metasploit
 - 🛡️ Seguridad de la Información
 - 🚧 Protección contra ataques cibernéticos
 
 ### Certificaciones
-- 🏆 <a href="/assets/img/Course_Completion_Certificate.pdf" target="_blank">Fortinet Certified Fundamentals Cybersecurity</a>
+- 🏆 <a href="/assets/img/Course_Completion_Certificate_Cyber_security.pdf" target="_blank">Fortinet Certificate Getting Started In Cyber security</a>
+- 🏆 <a href="/assets/img/Course_Completion_Certificate.pdf" target="_blank">Fortinet Certificate Introduction To The Threat Landscape</a>
 - 🏆 <a href="/assets/img/CursoCompletoDeHackingEticoYCiberSeguridad.jpg" target="_blank">Curso Completo De Hacking Ético Y Ciber Seguridad</a>
 - 🏆 <a href="/assets/img/DiseñoWebProfecional.jpg" target="_blank">Diseño Web Profecional</a>
 - 🏆 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PLBWZK8DDA.png" target="_blank">Advent of Cyber 2023 Try Hack Me</a>
